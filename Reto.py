@@ -1,7 +1,4 @@
-inventory = {'jero': {'name': 'jero', 'author': 'jero', 'copies': 10, 'genre': 'fiction'}, 
-             'ana': {'name': 'ana', 'author': 'ana', 'copies': 90, 'genre': 'fiction'}, 
-             'deivis': {'name': 'ana', 'author': 'ana', 'copies': 150, 'genre': 'children'}, 
-             'edis': {'name': 'ana', 'author': 'ana', 'copies': 20, 'genre': 'science'}}
+inventory = {}
 
 lgenres= ["fiction", "nonfiction", "science", "biography", "children"]
 
